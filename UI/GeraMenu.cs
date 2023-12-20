@@ -44,10 +44,10 @@ namespace UI
                     case 4:
                         MenuOrganizaArray.Menu();
                         break;
-                    /*                case 5:
-                                        MenuVerificadorPalindromo();
-                                        break;
-                                    case 6:
+                    case 5:
+                        MenuVerificadorPalindromo.Menu();
+                        break;
+                    /*                case 6:
                                         MenuCalculadoraRaizQuadrada();
                                         break;
                                     case 7:
