@@ -41,10 +41,10 @@ namespace UI
                     case 3:
                         MenuCalculaFatorial.Menu();
                         break;
-                    /*                case 4:
-                                        MenuOrganizadorCrescente();
-                                        break;
-                                    case 5:
+                    case 4:
+                        MenuOrganizaArray.Menu();
+                        break;
+                    /*                case 5:
                                         MenuVerificadorPalindromo();
                                         break;
                                     case 6:

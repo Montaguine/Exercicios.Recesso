@@ -8,11 +8,14 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "UI\UI.csproj", "{4320A3DC-8F8E-4EB5-A7F2-DB18CE5393FD}"
 	ProjectSection(ProjectDependencies) = postProject
 		{8BC9EB22-103F-439B-AC04-B33E9EAF7F3A} = {8BC9EB22-103F-439B-AC04-B33E9EAF7F3A}
+		{C8BD068D-6298-4CBB-9B95-8EFB4A4DE4D4} = {C8BD068D-6298-4CBB-9B95-8EFB4A4DE4D4}
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerificadorNumerosPrimos", "VerificadorNumerosPrimos\VerificadorNumerosPrimos.csproj", "{6419FCC1-2179-4B7B-96E9-B95ED900239A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadorFatorial", "CalculadorFatorial\CalculadorFatorial.csproj", "{8BC9EB22-103F-439B-AC04-B33E9EAF7F3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadorFatorial", "CalculadorFatorial\CalculadorFatorial.csproj", "{8BC9EB22-103F-439B-AC04-B33E9EAF7F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizadorArray", "OrganizaArray\OrganizadorArray.csproj", "{C8BD068D-6298-4CBB-9B95-8EFB4A4DE4D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +39,10 @@ Global
 		{8BC9EB22-103F-439B-AC04-B33E9EAF7F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BC9EB22-103F-439B-AC04-B33E9EAF7F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BC9EB22-103F-439B-AC04-B33E9EAF7F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BD068D-6298-4CBB-9B95-8EFB4A4DE4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BD068D-6298-4CBB-9B95-8EFB4A4DE4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BD068D-6298-4CBB-9B95-8EFB4A4DE4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BD068D-6298-4CBB-9B95-8EFB4A4DE4D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
