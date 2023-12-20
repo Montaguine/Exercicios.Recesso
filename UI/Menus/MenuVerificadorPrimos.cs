@@ -19,9 +19,7 @@ namespace UI.Menus
                 Console.WriteLine("Digite o numero que deseja verificar");
                 numero = int.TryParse(Console.ReadLine(), out numero) ? numero : 0;
                 Console.WriteLine($"\nO numero {numero} é primo? -> {VerificadorPrimos.VerificaPrimo(numero)}\n");
-                Console.WriteLine("Deseja verificar outro numero?");
-                Console.WriteLine("1 - Sim");
-                Console.WriteLine("\n0 - Não");
+                Console.WriteLine("Digite 0 para sair ou qualquer outro valor para continuar");
                 opcao = int.TryParse(Console.ReadLine(), out opcao) ? opcao : 0;
             } while (opcao != 0);
         }

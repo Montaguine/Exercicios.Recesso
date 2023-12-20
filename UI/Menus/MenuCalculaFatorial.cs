@@ -1,9 +1,9 @@
-﻿using System;
+﻿using CalculadorFatorial;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CalculadorFatorial;
 
 namespace UI.Menus
 {
@@ -17,8 +17,8 @@ namespace UI.Menus
                 Console.Clear();
                 Console.WriteLine("Digite um numero para calcular seu fatorial");
                 numero = int.TryParse(Console.ReadLine(), out numero) ? numero : 0;
-                Console.WriteLine($"O fatorial de {numero} é {CalculadorFatorial.Calcula(numero)}");
-                Console.WriteLine("Digite 0 para sair ou qualquer outro numero para continuar");
+                Console.WriteLine($"O fatorial de {numero} é {CalculaFatorial.Calcula(numero)}");
+                Console.WriteLine("Digite 0 para sair ou qualquer outro valor para continuar");
                 numero = int.TryParse(Console.ReadLine(), out numero) ? numero : 0;
             } while (numero != 0);
         }
