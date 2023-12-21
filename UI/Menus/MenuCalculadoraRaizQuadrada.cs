@@ -20,7 +20,7 @@ namespace UI.Menus
                 double numero = double.TryParse(Console.ReadLine(), out numero) ? numero : 0;
                 if(numero != 0 && numero > 0)
                 {
-                    Console.WriteLine($"A raiz quadrada de {numero} é {CalculaRaiz.Raiz(numero)}");
+                    Console.WriteLine($"A raiz quadrada de {numero} é {CalculaRaiz.RaizQuadrada(numero)}");
                 } 
 
                 else

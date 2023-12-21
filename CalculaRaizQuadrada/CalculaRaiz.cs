@@ -2,9 +2,8 @@
 {
     public class CalculaRaiz
     {
-        public static double Raiz(double numero)
+        public static double RaizQuadrada(double numero)
         {
-            var contador = 0;
             double raiz = 0;
             for (double i = 0; i <= numero; i++)
             {
