@@ -47,10 +47,10 @@ namespace UI
                     case 5:
                         MenuVerificadorPalindromo.Menu();
                         break;
-                    /*                case 6:
-                                        MenuCalculadoraRaizQuadrada();
-                                        break;
-                                    case 7:
+                    case 6:
+                        MenuCalculadoraRaizQuadrada.Menu();
+                        break;
+                    /*                case 7:
                                         MenuConversorRealDolar();
                                         break;
                                     case 8:

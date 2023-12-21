@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerificadorNumerosPrimos", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadorFatorial", "CalculadorFatorial\CalculadorFatorial.csproj", "{8BC9EB22-103F-439B-AC04-B33E9EAF7F3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizadorArray", "OrganizaArray\OrganizadorArray.csproj", "{C8BD068D-6298-4CBB-9B95-8EFB4A4DE4D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrganizadorArray", "OrganizaArray\OrganizadorArray.csproj", "{C8BD068D-6298-4CBB-9B95-8EFB4A4DE4D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificadorPalindromo", "VerificadorPalindromo\VerificadorPalindromo.csproj", "{56E6C525-1DA1-43F5-92EA-FC776CD30D5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerificadorPalindromo", "VerificadorPalindromo\VerificadorPalindromo.csproj", "{56E6C525-1DA1-43F5-92EA-FC776CD30D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaRaizQuadrada", "CalculaRaizQuadrada\CalculaRaizQuadrada.csproj", "{3E0A0338-DA59-470F-8F51-0257264F4F70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +51,10 @@ Global
 		{56E6C525-1DA1-43F5-92EA-FC776CD30D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56E6C525-1DA1-43F5-92EA-FC776CD30D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56E6C525-1DA1-43F5-92EA-FC776CD30D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0A0338-DA59-470F-8F51-0257264F4F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0A0338-DA59-470F-8F51-0257264F4F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0A0338-DA59-470F-8F51-0257264F4F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0A0338-DA59-470F-8F51-0257264F4F70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
