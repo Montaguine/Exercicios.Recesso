@@ -50,17 +50,17 @@ namespace UI
                     case 6:
                         MenuCalculadoraRaizQuadrada.Menu();
                         break;
-                    /*                case 7:
-                                        MenuConversorRealDolar();
-                                        break;
-                                    case 8:
-                                        MenuCriadorVerificadorSenha();
-                                        break;
-                                    case 9:
-                                        MenuValidadorCPF();
+                    case 7:
+                        MenuConversorRealDolar.Menu();
+                        break;
+                    case 8:
+                        MenuValidadorDeSenha.Menu();
+                        break;
+                    /*                case 9:
+                                        MenuValidadorCPF.Menu();
                                         break;
                                     case 10:
-                                        MenuContadorPalavras();
+                                        MenuContadorPalavras.Menu();
                                         break;
                     */
                     case 0:
