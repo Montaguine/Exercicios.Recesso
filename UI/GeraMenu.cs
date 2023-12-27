@@ -56,10 +56,10 @@ namespace UI
                     case 8:
                         MenuValidadorDeSenha.Menu();
                         break;
-                    /*                case 9:
-                                        MenuValidadorCPF.Menu();
-                                        break;
-                                    case 10:
+                    case 9:
+                        MenuValidadorCPF.Menu();
+                        break;
+                    /*                case 10:
                                         MenuContadorPalavras.Menu();
                                         break;
                     */
