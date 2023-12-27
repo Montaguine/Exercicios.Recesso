@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\CalculadorFatorial\CalculadorFatorial.csproj" />
     <ProjectReference Include="..\CalculaRaizQuadrada\CalculaRaizQuadrada.csproj" />
+    <ProjectReference Include="..\ContadorDePalavras\ContadorDePalavras.csproj" />
     <ProjectReference Include="..\Conversor.Celcius.Fahrenheit\ConversorCelciusFahrenheit.csproj" />
     <ProjectReference Include="..\ConversorRealDolar\ConversorRealDolar.csproj" />
     <ProjectReference Include="..\OrganizaArray\OrganizadorArray.csproj" />

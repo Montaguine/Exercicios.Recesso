@@ -59,10 +59,10 @@ namespace UI
                     case 9:
                         MenuValidadorCPF.Menu();
                         break;
-                    /*                case 10:
-                                        MenuContadorPalavras.Menu();
-                                        break;
-                    */
+                    case 10:
+                        MenuContadorPalavras.Menu();
+                        break;
+                    
                     case 0:
                         break;
                     default:
