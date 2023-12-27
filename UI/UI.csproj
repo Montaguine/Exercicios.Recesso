@@ -13,6 +13,7 @@
     <ProjectReference Include="..\Conversor.Celcius.Fahrenheit\ConversorCelciusFahrenheit.csproj" />
     <ProjectReference Include="..\ConversorRealDolar\ConversorRealDolar.csproj" />
     <ProjectReference Include="..\OrganizaArray\OrganizadorArray.csproj" />
+    <ProjectReference Include="..\ValidadorDeSenha\ValidadorDeSenha.csproj" />
     <ProjectReference Include="..\VerificadorNumerosPrimos\VerificadorNumerosPrimos.csproj" />
     <ProjectReference Include="..\VerificadorPalindromo\VerificadorPalindromo.csproj" />
   </ItemGroup>

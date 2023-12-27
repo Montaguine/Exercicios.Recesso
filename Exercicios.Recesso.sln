@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculaRaizQuadrada", "Calc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorRealDolar", "ConversorRealDolar\ConversorRealDolar.csproj", "{94B751CE-73F7-433A-86F8-0DCE646E6BC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorDeSenha", "ValidadorDeSenha\ValidadorDeSenha.csproj", "{57A725C9-0264-4961-A4CA-8F26CFCF9C90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{94B751CE-73F7-433A-86F8-0DCE646E6BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94B751CE-73F7-433A-86F8-0DCE646E6BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94B751CE-73F7-433A-86F8-0DCE646E6BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A725C9-0264-4961-A4CA-8F26CFCF9C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A725C9-0264-4961-A4CA-8F26CFCF9C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A725C9-0264-4961-A4CA-8F26CFCF9C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A725C9-0264-4961-A4CA-8F26CFCF9C90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
